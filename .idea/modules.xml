@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11-3-2021/11-3-2021.iml" filepath="$PROJECT_DIR$/11-3-2021/11-3-2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aflevering/Aflevering.iml" filepath="$PROJECT_DIR$/Aflevering/Aflevering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoGui/DemoGui.iml" filepath="$PROJECT_DIR$/DemoGui/DemoGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleArray11.10.21/DoubleArray11.10.21.iml" filepath="$PROJECT_DIR$/DoubleArray11.10.21/DoubleArray11.10.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ekstrahjælp/Ekstrahjælp.iml" filepath="$PROJECT_DIR$/Ekstrahjælp/Ekstrahjælp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Flight.iml" filepath="$PROJECT_DIR$/Test/Flight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee/Opgave.iml" filepath="$PROJECT_DIR$/Employee/Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1.iml" filepath="$PROJECT_DIR$/untitled1.iml" />
+    </modules>
+  </component>
+</project>

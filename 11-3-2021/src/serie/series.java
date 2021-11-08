@@ -15,9 +15,6 @@ public class series {
         return title;
     }
 
-    public int totalLength(){
-
-    }
 
     public ArrayList<String> getCast (){
         return cast;

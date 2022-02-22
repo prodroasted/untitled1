@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Aflevering/Aflevering.iml" filepath="$PROJECT_DIR$/Aflevering/Aflevering.iml" />
       <module fileurl="file://$PROJECT_DIR$/Architecture1semester/Architecture1semester.iml" filepath="$PROJECT_DIR$/Architecture1semester/Architecture1semester.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag6_Lambda/Dag6_Lambda.iml" filepath="$PROJECT_DIR$/Dag6_Lambda/Dag6_Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoGui/DemoGui.iml" filepath="$PROJECT_DIR$/DemoGui/DemoGui.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoubleArray11.10.21/DoubleArray11.10.21.iml" filepath="$PROJECT_DIR$/DoubleArray11.10.21/DoubleArray11.10.21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ekstrahjælp/Ekstrahjælp.iml" filepath="$PROJECT_DIR$/Ekstrahjælp/Ekstrahjælp.iml" />
@@ -14,11 +15,13 @@
       <module fileurl="file://$PROJECT_DIR$/KAS/KAS.iml" filepath="$PROJECT_DIR$/KAS/KAS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoginScreen/LoginScreen.iml" filepath="$PROJECT_DIR$/LoginScreen/LoginScreen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee/Opgave.iml" filepath="$PROJECT_DIR$/Employee/Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PC - Modules.iml" filepath="$PROJECT_DIR$/PC - Modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semesterproeve2018/Semesterproeve2018.iml" filepath="$PROJECT_DIR$/Semesterproeve2018/Semesterproeve2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag7_Design_Patterns/Subjects.iml" filepath="$PROJECT_DIR$/Dag7_Design_Patterns/Subjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tidskompleksitet/Tidskompleksitet.iml" filepath="$PROJECT_DIR$/Tidskompleksitet/Tidskompleksitet.iml" />
       <module fileurl="file://$PROJECT_DIR$/semesteropgave2015/semesteropgave2015.iml" filepath="$PROJECT_DIR$/semesteropgave2015/semesteropgave2015.iml" />
       <module fileurl="file://$PROJECT_DIR$/semesteropgave2016/semesteropgave2016.iml" filepath="$PROJECT_DIR$/semesteropgave2016/semesteropgave2016.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled1.iml" filepath="$PROJECT_DIR$/untitled1.iml" />
     </modules>
   </component>
 </project>
